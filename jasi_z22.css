@@ -3,15 +3,15 @@ color: red;
 font-size: 22pt;
  }
 
-p#gruby_skawinski {
+#gruby_jasi {
 
 color: green;
 font-size: 17pt;
 }
 
-#dlawszystkich_skawinski{
+#dlawszystkich_jasi{
 
 color: yellow;
-font-size: 17pt;
-font-weight: bold;
+font-size: 10pt;
+font-family: Arial;
 }
